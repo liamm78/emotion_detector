@@ -1,7 +1,0 @@
-numpy
-matplotlib
-opencv-python
-sklearn
-itmutils
-tensorflow
-keras
